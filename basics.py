@@ -1,6 +1,7 @@
 #Variables
 age = 14
 salary = 14.5
+age = 15
 #Dynamic Typing 
 #Type annotation
 #String
