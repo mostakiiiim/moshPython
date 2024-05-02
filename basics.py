@@ -46,6 +46,10 @@ y.append(6)
 
 print(id(y))
 # String
+
+fact = "nile is a river in nile"
+print(fact[3])
+
 # Escape Sequences
 # Formatted Strings
 # Useful String Methods
