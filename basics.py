@@ -50,6 +50,15 @@ print(id(y))
 fact = "nile is a river in nile"
 print(fact[3])
 
+# String Methods
+'String variable'
+first_name = "Md Mostakim"
+last_name = "Reza"
+
+full_name = f"{first_name} {last_name}"
+print(full_name)
+
+
 # Escape Sequences
 # Formatted Strings
 # Useful String Methods
